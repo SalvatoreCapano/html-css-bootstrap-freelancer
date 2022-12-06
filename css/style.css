@@ -1,0 +1,16 @@
+/* temp */
+header {
+    background-color: green;
+}
+
+main {
+    background-color: lightblue;
+}
+
+footer {
+    background-color: brown;
+}
+
+.container-sm {
+    border: 1px dashed red;
+}
